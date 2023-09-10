@@ -2,7 +2,7 @@
 numpy
 pandas
 streamlit
-sklearn
+scikit-learn
 bing_image_downloader
-skimage
+scikit-image
 matplotplib.pyplot
