@@ -1,0 +1,8 @@
+#Specify libraries needed for it to work
+numpy
+pandas
+streamlit
+sklearn
+bing_image_downloader
+skimage
+matplotplib.pyplot
