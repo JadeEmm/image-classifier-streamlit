@@ -14,7 +14,7 @@ def main():
     if uploaded_file is not None:
       img = Image.open(uploaded_file)
       st.image(img, caption='Uploaded Image')
-      if st.button('Predict'):
+    if st.button('Predict'):
         categories =['pretty sunflower', 'tesla car', 'glass of water' ]
         #Model prediction code
         st.write('Result:')
