@@ -5,4 +5,4 @@ streamlit
 scikit-learn
 bing_image_downloader
 scikit-image
-matplotlib.pyplot
+matplotlib
